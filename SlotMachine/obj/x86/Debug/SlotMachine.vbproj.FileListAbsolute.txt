@@ -1,0 +1,33 @@
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\bin\Debug\SlotMachine.xml
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\obj\x86\Debug\SlotMachine.SlotMachine.resources
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\obj\x86\Debug\SlotMachine.Resources.resources
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\obj\x86\Debug\SlotMachine.exe
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\obj\x86\Debug\SlotMachine.xml
+C:\Users\Ian\AppData\Local\Temporary Projects\SlotMachine\obj\x86\Debug\SlotMachine.pdb
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.exe
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.xml
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.pdb
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.xml
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.SlotMachine.resources
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.Resources.resources
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\documents\visual studio 2010\Projects\SlotMachine\SlotMachine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.exe
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.xml
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.pdb
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\bin\Debug\SlotMachine.xml
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.SlotMachine.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\obj\x86\Debug\SlotMachine.Resources.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\SlotMachine\SlotMachine\obj\x86\Debug\GenerateResource.write.1.tlog

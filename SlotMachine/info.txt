@@ -1,0 +1,14 @@
+Started: August 31, 2011 // "Completed": September 1, 2011 (minus sounds)
+
+- A fairly basic slot machine-type thing
+- Timer will be used to animate the slots
+- Could either use a button to stop all at once (1 timer) or 3 individual buttons (3 timers)
+- Sound effects could be made at http://www.soundation.com/
+
+Image information:
+
+- /res/main holds images such as the title image
+- /res/game holds images related to the game
+- smaller versions of fruit are named FRUIT_<TYPE>_SM.PNG
+- larger versions of fruit are named FRUIT_<TYPE>.PNG
+- might have a 'If <picturebox>.Image = Nothing Then' statement to handle missing images
